@@ -13,6 +13,7 @@
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="30" height="30"/> &nbsp;
 </p>
 ---
+
 ### 🎨 Frontend
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="30" height="30"/> &nbsp;
