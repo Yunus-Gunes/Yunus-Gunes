@@ -32,12 +32,9 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="30" height="30"/> &nbsp;
 </p>
-- MySQL kullanarak veritabanı işlemleri gerçekleştiriyorum.
 
 ### ⚙️ Tools & DevOps
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="30" height="30"/> &nbsp;
 </p>
-- Git ve GitHub ile versiyon kontrolü yapıyorum, projeleri yönetiyorum.
-
